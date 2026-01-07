@@ -53,4 +53,4 @@ Bu Kullanım Koşulları hakkında sorularınız için bizimle iletişime geçin
 
 ---
 
-© 2025 Promiso. Tüm hakları saklıdır.
+© 2026 Promiso. Tüm hakları saklıdır.
