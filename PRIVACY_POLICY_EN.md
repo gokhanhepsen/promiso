@@ -1,6 +1,6 @@
 # Promiso - Privacy Policy
 
-**Last Updated:** January 2025
+**Last Updated:** January 2026
 
 Promiso ("we", "our", or "the app") is a promise tracking and accountability application. We are committed to protecting your privacy and being transparent about how we handle your data.
 
@@ -77,4 +77,4 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ---
 
-© 2025 Promiso. All rights reserved.
+© 2026 Promiso. All rights reserved.
