@@ -1,6 +1,6 @@
 # Kullanım Koşulları
 
-**Son Güncelleme:** Ocak 2025
+**Son Güncelleme:** Ocak 2026
 
 ## 1. Koşulların Kabulü
 
