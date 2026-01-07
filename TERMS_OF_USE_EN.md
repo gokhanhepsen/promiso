@@ -53,4 +53,4 @@ For questions about these Terms of Use, contact us at: hepsengokhan@gmail.com
 
 ---
 
-© 2025 Promiso. All rights reserved.
+© 2026 Promiso. All rights reserved.
