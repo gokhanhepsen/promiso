@@ -1,6 +1,6 @@
 # Promiso - Gizlilik Politikası
 
-**Son Güncelleme:** Ocak 2025
+**Son Güncelleme:** Ocak 2026
 
 Promiso ("biz", "bizim" veya "uygulama"), söz takibi ve hesap verebilirlik uygulamasıdır. Gizliliğinizi korumaya ve verilerinizi nasıl işlediğimiz konusunda şeffaf olmaya kararlıyız.
 
@@ -90,4 +90,4 @@ Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen bizimle iletişim
 
 ---
 
-© 2025 Promiso. Tüm hakları saklıdır.
+© 2026 Promiso. Tüm hakları saklıdır.
